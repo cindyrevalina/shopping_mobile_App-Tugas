@@ -24,13 +24,27 @@ Proyek ini meliputi tahapan **Storyboard**, **Mockup**, **UI Design**, **UX Desi
 
 ## Komponen Project
 
-## 1. Timeline / Gantt Chart (ClickUp)
+## 1. Splash Screen
+
+"""
+Splash Screen adalah tampilan awal yang muncul saat aplikasi pertama kali dibuka.
+Fungsinya untuk menampilkan logo dan nama aplikasi selama proses loading,
+serta memberikan kesan profesional sebelum masuk ke halaman utama.
+"""
+<Img src="Splash Screen.png" alt="Splash Screen GoMart" width="600"/>
+
+*Simulasi interaksi pengguna:*  
+<Img src="Splash Screen.mp4" alt="Splash Screen GoMart" width="600"/>
+
+---
+
+## 2. Timeline / Gantt Chart (ClickUp)
 Timeline dibuat di **ClickUp** dengan tampilan *Gantt View* untuk memantau jadwal pengerjaan.
 <Img src="ClickUp.png" alt="ClickUp GoMart" width="600"/>
 
 ---
 
-### 2.Wireframe Project
+### 3.Wireframe Project
 Menampilkan kerangka dasar tampilan aplikasi (tanpa warna dan elemen dekoratif).  
 Tahapan ini membantu mengatur struktur tata letak sebelum masuk ke desain visual.
 
@@ -52,7 +66,7 @@ Tahapan ini membantu mengatur struktur tata letak sebelum masuk ke desain visual
 
 ---
 
-### 3. Storyboard Project
+### 4. Storyboard Project
 Menampilkan alur interaksi pengguna mulai dari:
 - Membuka aplikasi (Splash Screen)
 - Login ke akun
@@ -64,7 +78,7 @@ Menampilkan alur interaksi pengguna mulai dari:
 
 ---
 
-### 4. Mockup Project
+### 5. Mockup Project
 Menunjukkan rancangan visual awal dari aplikasi **GoMart** dengan tema warna:
 - 💚 **Hijau segar (#00ff99)** sebagai warna utama  
 - 🤍 **Putih lembut (#fdfdfd)** untuk latar belakang konten  
@@ -103,7 +117,6 @@ Bagian UX difokuskan pada alur interaksi pengguna yang sederhana dan efisien:
 <Img src="UX.mp4" alt="UX Prototype GoMart" width="600"/>
 
 ---
-
 
 ---
 
