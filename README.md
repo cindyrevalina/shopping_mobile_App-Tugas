@@ -34,7 +34,7 @@ serta memberikan kesan profesional sebelum masuk ke halaman utama.
 <Img src="Splash Screen.png" alt="Splash Screen GoMart" width="600"/>
 
 *Simulasi interaksi pengguna:*  
-<Img src="Splash Screen.mp4" alt="Splash Screen GoMart" width="600"/>
+<Img src="Splash Screen.mp4" alt="Splash Screen.mp4" width="600"/>
 
 ---
 
